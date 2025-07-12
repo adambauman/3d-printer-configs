@@ -4,8 +4,9 @@
 
 ## Hardware
 - Foxnova Ender3 kit
-- Stock Creality steppers and hot end
-- [Mini-Me v4 Hot End Duct](https://www.printables.com/model/197957-mini-me-v4-lightweight-ender3-hotend-duct-stock-pa)
+- Stock Creality steppers
+- Creality Spider Pro 3.0 hotend
+- [Hero Me Gen7 printhead, dual 5015 fans](https://www.merlinmedia.com/)
 - Creality Sprite direct drive extruder
 - BIGTREETECH SKR MINI E3 V3.0
 - Rapsberry Pi3 and 5" LCD touchscreen
